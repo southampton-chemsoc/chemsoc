@@ -1,0 +1,173 @@
+<table align="center" class="deviceWidth" bgcolor="#FFFFFF">
+<!-- First row -->
+<tr>
+<!-- First Row only column -->
+<td style="font-size: 12px; color: #959595; font-weight: normal; text-align: center; font-family: Georgia, Times, serif; line-height: 24px; vertical-align: top; padding-top:10px">
+<a href="http://www.chem.susu.org"><img src="https://dl.dropboxusercontent.com/u/68218651/Chemsoc%2520logo%25204.1.png" height="120px">
+<div style="height:15px">&nbsp;</div><!-- spacer -->
+</td> <!-- End Column -->
+</tr>   <!-- End First Row -->
+            
+<tr> <!--Second Row  -->
+                    <td>
+
+<script type="text/javascript">
+function divcolorfb(){ document.getElementById('change').style.background='#3B5998';
+document.getElementById('text').innerHTML = " Join our group to keep up to date";
+}
+function textchange(){
+document.getElementById('text').style.color = "#EFE";}
+function divcolortw(){ document.getElementById('change').style.background='#55ACEE';
+document.getElementById('text').innerHTML = " Follow @SotonChemSoc for the latest news";}
+function divcolorem(){ document.getElementById('change').style.background='#444';
+document.getElementById('text').innerHTML = " Email chemsoc@soton.ac.uk with any questions";}
+function divcolorwe(){ document.getElementById('change').style.background='#B20018';
+document.getElementById('text').innerHTML = " Our website shows more of how we help you";}
+function textreset(){
+document.getElementById('change').style.background = "#FFF";
+ document.getElementById('box').style.background='#FFF';
+document.getElementById('text').style.color = "#444";
+document.getElementById('text').innerHTML = "Use the buttons below to connect with us";}
+
+</script>
+
+                             
+
+
+
+                      
+                            <table align="center"   bgcolor="B20018" cellpadding="0" cellspacing="0" border="0" class="deviceWidth" style="border-radius:5px;-moz-border-radius:10px;-webkit-border-radius:10px;">
+                                <tr>
+                                    <td style="font-size: 12px; color: #FDD; font-weight: normal; text-align: left; font-family: Helvetica, serif; line-height: 24px; vertical-align: top; padding:10px 8px 10px 8px" height="25%">
+
+                                        <table>
+                                            <tr>
+                                                
+                                                <td valign="middle" style="padding:0 10px 10px 0"><a style="text-decoration: none; font-size: 16px; color: #EFE; font-weight: bold; font-family:Arial, sans-serif ">Welcome!</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+
+                                        <p style="mso-table-lspace:0;mso-table-rspace:0; margin:0">  
+                                            ChemSoc are a SUSU-affiliated society, responsible for ensuring you enjoy your time as a chemist at the University of Southampton.
+                                            <br/>
+
+                                       
+<tr>
+<td height="15px" bgcolor="#FFF">
+</td>
+</tr>
+    
+                                <tr>
+                                    <td style="font-size: 12px; color: #FDD; font-weight: normal; text-align: left; font-family: Helvetica, serif; line-height: 24px; vertical-align: top; padding:10px 8px 10px 8px;  border-radius:5px;-moz-border-radius:10px;-webkit-border-radius:10px;">
+
+                                        <table>
+                                            <tr>
+                                                              <td valign="middle" style="padding:0 10px 10px 0"><a style="text-decoration: none; font-size: 16px; color: #EFE; font-weight: bold; font-family:Arial, sans-serif ">Nights out. Careers Talks. Quizzes. Sports.</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+
+                                        <p style="mso-table-lspace:0;mso-table-rspace:0; margin:0">  
+                                           With events ranging from fancy dress nights out to films in the Union to careers talks we have something for everyone!  You also have the opportunity to compete for the Society in Intra-Mural sports - currently we have football, rugby and badminton teams who need you. <b>We look forward to seeing you around soon!</b>
+                                            <br/>
+</p>
+<tr>
+<td style="height:15px" bgcolor="#FFF">
+</td>
+</tr>
+                                <tr>
+                                    <td style="font-size: 12px; color: #FDD; font-weight: normal; text-align: left; font-family: Helvetica, serif; line-height: 24px; vertical-align: top; padding:10px 8px 10px 8px">
+
+                                        <table>
+                                            <tr>
+                                                              <td valign="middle" style="padding:0 10px 10px 0; text-align: right"><a style="text-decoration: none; font-size: 16px; color: #EFE; font-weight: bold; font-family:Arial, sans-serif ">Run Your Society!</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+
+                                        <p style="mso-table-lspace:0;mso-table-rspace:0; margin:0">  
+                                            Your input shapes the way the committee works and all minutes are made available to members. If you don't like something tell us, and make sure the society works for you. And if you want to run the society as a committee member then elections are held annually at Easter.<br/> 
+                                            <br/>
+
+                                            <table width="150" align="center">
+                                                <tr>
+                                                    <td style="padding:5px 0;background-color:#FFF; border-top:1px solid #444; background-repeat:repeat-x; border-radius:5px;-moz-border-radius:10px;-webkit-border-radius:10px;" align="center">
+                                                        <a href="http://www.susu.org/groups/chemsoc" target="_blank" 
+                                                        style="
+                                                        color:#B20018;
+                                                        font-size:13px;
+                                                        font-weight:bold;
+                                                        text-align:center;
+                                                        text-decoration:none;
+                                                        font-family:Arial, sans-serif;
+                                                        -webkit-text-size-adjust:none;">
+                                                                Meet The Committee
+                                                        </a>
+
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>  
+
+<table align="center" style="padding-top:20px" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td valign="top" align="center" class="center" style="padding: 0 20 0 20px">
+                                            <a class="twitter-timeline" data-link-color="#B20018" height="50px" href="https://twitter.com/SotonChemSoc" data-widget-id="501382142857728004">Tweets by @SotonChemSoc</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+                                    </td>
+                                </tr>
+<tr>
+<td style="font-size: 12px; color: #959595; font-weight: normal; text-align: left; font-family: Georgia, Times, serif; line-height: 24px; vertical-align: top; padding-top: 20px;height="49%">
+
+                                        <table align="center">
+                                            <tr>
+                                                <td valign="middle" style="padding: 10px 0 10px 0;"><a style="text-decoration: none; font-size: 16px; color: #444; font-weight: bold; font-family:Arial, sans-serif ">Get in touch!</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+</td>
+</tr>
+<tr id="change">
+<td>
+<table align="center" style="border-radius:5px;-moz-border-radius:10px;-webkit-border-radius:10px;">
+                                            <tr style="border-radius:5px;-moz-border-radius:10px;-webkit-border-radius:10px;">
+                                                
+                                                <td style="padding: 10px 0 10px 0;"><b id="text" style="text-decoration: none; font-size: 16px; color: #444; font-weight: bold; font-family:Arial, sans-serif;">Use the buttons below to connect with us</b>
+                                                </td>
+                                            </tr>
+                                        </table>
+
+<tr>
+<td>
+<table id="box" align="center" style="padding-top:10px; align: bottom; background: #FFF;">
+                                            <tr>
+                                                
+                                                <td valign="middle" style="padding:0 10px 10px 0"><a href="http://www.facebook.com/groups/ChemsocSouthampton" target="_blank" style="text-decoration: none; font-size: 16px; color: #444; font-weight: bold; font-family:Arial, sans-serif "><div id="div1" onmouseover="divcolorfb(); textchange()" onmouseout="textreset()"><img src="https://dl.dropboxusercontent.com/u/68218651/FB-f-Logo__blue_50.png" height="40px" ></div></a>
+                                                </td>
+<td valign="middle" style="padding:0 8px 10px 0"><a href="http://www.twitter.com/sotonchemsoc" target="_blank" style="text-decoration: none; font-size: 16px; color: #444; font-weight: bold; font-family:Arial, sans-serif "><div id="div1" onmouseover="divcolortw(); textchange()" onmouseout="textreset()"><img src="https://dl.dropboxusercontent.com/u/68218651/t_logo.png"></div></a>
+                                                </td>
+<td valign="middle" style="padding:0 8px 10px 0"><a href="mailto:chemsoc@soton.ac.uk" target="_blank" style="text-decoration: none; font-size: 16px; color: #444; font-weight: bold; font-family:Arial, sans-serif "><div id="div1" onmouseover="divcolorem(); textchange()" onmouseout="textreset()"><img src="https://dl.dropboxusercontent.com/u/68218651/mailsymbol.png" height="40px"></div></a>
+                                                </td>
+<td valign="middle" style="padding:0 8px 10px 0"><a href="http://www.chem.susu.org" target="_blank" style="text-decoration: none; font-size: 16px; color: #444; font-weight: bold; font-family:Arial, sans-serif "><div id="div1" onmouseover="divcolorwe(); textchange()" onmouseout="textreset()"><img src="https://pbs.twimg.com/profile_images/499823666763284480/CfbBPTFD_bigger.png" height="40px"></div></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+</td>
+</tr>
+</tr>
+
+ </table>
+                    </td>
+                </tr>         
+            </table>
+
+
+</TD>
+
